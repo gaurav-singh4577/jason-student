@@ -1,5 +1,7 @@
 # jason-student
 this the first jasonfile
 <br>
-author jason 
+author Jason
+<br>
+next author is the josh boss 
 
